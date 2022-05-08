@@ -1,6 +1,6 @@
 # mongo_todo_app
 
-see frontend and backend READMEs
+MERN Stack todo app
 
 # Deployment
 
